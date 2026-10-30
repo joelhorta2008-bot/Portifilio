@@ -2,17 +2,16 @@ Missão 4: O Relatório
 Entreguem as respostas:
 
 Os repositórios: Quais são os endereços dos vossos dois repositórios no GitHub (portefolio e exercicios-uf1.1)? Resposta:
--
-- https://github.com/joelhorta2008-bot/exercicios-uf1.1.git
+- Endereço do Portifolio:https://github.com/joelhorta2008-bot/Portifilio.git
+- Endereço do Portifolio https://github.com/joelhorta2008-bot/exercicios-uf1.1.git
 
 
 O ciclo de trabalho: Expliquem, por palavras vossas, o que fazem git add, git commit e git push, e porque é que são três passos separados. Resposta:
-
 - Pelo oque eu intendi:
 
 *Git add* é como se você está preparando as
 alterações na "sala de espera"!
-É o comando que selecoina e prepara
+É o comando que seleciona e prepara
 as alterações feitas nos ficheiros
 
 *Git commit* é usado quando queres artualizar um git anterior.
